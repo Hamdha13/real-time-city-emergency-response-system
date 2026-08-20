@@ -1,0 +1,5 @@
+{
+  "name": "City Emergency Response System",
+  "description": "A real-time emergency response system that assigns the nearest available ambulance to reported incidents using MongoDB geospatial queries.",
+  "requestFramePermissions": ["geolocation"]
+}
